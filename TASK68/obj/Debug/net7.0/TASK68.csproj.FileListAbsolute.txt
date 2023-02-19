@@ -1,0 +1,15 @@
+C:\Users\Rvi_Jalo\Desktop\TASK(DZ) 64,66,68\TASK68\bin\Debug\net7.0\TASK68.exe
+C:\Users\Rvi_Jalo\Desktop\TASK(DZ) 64,66,68\TASK68\bin\Debug\net7.0\TASK68.deps.json
+C:\Users\Rvi_Jalo\Desktop\TASK(DZ) 64,66,68\TASK68\bin\Debug\net7.0\TASK68.runtimeconfig.json
+C:\Users\Rvi_Jalo\Desktop\TASK(DZ) 64,66,68\TASK68\bin\Debug\net7.0\TASK68.dll
+C:\Users\Rvi_Jalo\Desktop\TASK(DZ) 64,66,68\TASK68\bin\Debug\net7.0\TASK68.pdb
+C:\Users\Rvi_Jalo\Desktop\TASK(DZ) 64,66,68\TASK68\obj\Debug\net7.0\TASK68.csproj.AssemblyReference.cache
+C:\Users\Rvi_Jalo\Desktop\TASK(DZ) 64,66,68\TASK68\obj\Debug\net7.0\TASK68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rvi_Jalo\Desktop\TASK(DZ) 64,66,68\TASK68\obj\Debug\net7.0\TASK68.AssemblyInfoInputs.cache
+C:\Users\Rvi_Jalo\Desktop\TASK(DZ) 64,66,68\TASK68\obj\Debug\net7.0\TASK68.AssemblyInfo.cs
+C:\Users\Rvi_Jalo\Desktop\TASK(DZ) 64,66,68\TASK68\obj\Debug\net7.0\TASK68.csproj.CoreCompileInputs.cache
+C:\Users\Rvi_Jalo\Desktop\TASK(DZ) 64,66,68\TASK68\obj\Debug\net7.0\TASK68.dll
+C:\Users\Rvi_Jalo\Desktop\TASK(DZ) 64,66,68\TASK68\obj\Debug\net7.0\refint\TASK68.dll
+C:\Users\Rvi_Jalo\Desktop\TASK(DZ) 64,66,68\TASK68\obj\Debug\net7.0\TASK68.pdb
+C:\Users\Rvi_Jalo\Desktop\TASK(DZ) 64,66,68\TASK68\obj\Debug\net7.0\TASK68.genruntimeconfig.cache
+C:\Users\Rvi_Jalo\Desktop\TASK(DZ) 64,66,68\TASK68\obj\Debug\net7.0\ref\TASK68.dll
